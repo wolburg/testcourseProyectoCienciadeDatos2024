@@ -3,4 +3,4 @@ Este repositorio contiene los archivos necesarios para hacer pruebas de git del 
 
 ##Prueba de cambios en el repo remoto
 
-¡[](https://international.udemedellin.edu.co/wp-content/uploads/2021/07/iteso.jpg)
+![](https://international.udemedellin.edu.co/wp-content/uploads/2021/07/iteso.jpg)
